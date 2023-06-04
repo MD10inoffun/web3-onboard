@@ -66,7 +66,7 @@
     "@types/node": "^17.0.21",
     "ts-node": "^10.2.1",
     "typescript": "^4.5.5",
-    "window": "^4.2.7"
+    "window": "^1.0.0"
   },
   "dependencies": {
     "@cedelabs/providers": "^0.0.7",
